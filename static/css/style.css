@@ -1,0 +1,38 @@
+.cabecario{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.linkks{
+    text-align: right;
+    margin-right: 50px;
+}
+
+.img-capa{
+    text-align:center;
+    padding-top: 13px;
+} 
+
+.img-logo{
+    margin-left: 500px;
+    margin-top: 5px;
+}
+
+
+.rodape{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.texto{
+
+    text-align: center;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.motivos{
+    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-left: 25px;
+ }
