@@ -1,0 +1,3 @@
+[submodule "FATEC"]
+	path = FATEC
+	url = https://github.com/LuisSCardoso/FATEC
